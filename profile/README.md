@@ -1,9 +1,7 @@
 # Di Genoma Lab 
 hi 👋! welcome to the Di genoma lab. 
 ## Short description
-We are a research group based on Chile 
-that combine the development of **new algorithms**, **genome analyses**, and **omic technologies** 
-to study complex biological systems. 
+We are a Chilean-based research group that combines the development of **new algorithms**, **genome analysis**, and **omics technologies** to study complex biological systems.
 
 # Main Repositories
 
@@ -19,7 +17,6 @@ We have developed, in conjunction with [IARCbioinfo](https://github.com/IARCbioi
 2. [sv_somatic_cns](https://github.com/digenoma-lab/sv_somatic_cns) consensus calling of Somatic structural variants from Paired WGS.
 3. [ampliconarchitect-nf](https://github.com/digenoma-lab/ampliconarchitect-nf) a nextflow pipeline to discover ecDNA on cancer genomes
 4. [nf-gene-fusions](https://github.com/digenoma-lab/nf-gene-fusions) a nextflow pipeline to call somatic mRNA fusions
-
 
 
 
